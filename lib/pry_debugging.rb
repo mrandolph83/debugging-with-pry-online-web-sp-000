@@ -1,5 +1,3 @@
-def plus_two(num.to_i)
+def plus_two(num)
 	num + 2
-	num + 3
-
 end
